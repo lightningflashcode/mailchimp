@@ -1,0 +1,17 @@
+{
+  "name": "project-mailchimp",
+  "version": "1.0.0",
+  "description": "mailing proect landing page",
+  "main": "mailist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danish Ferraltri Thene",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.27",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
